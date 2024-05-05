@@ -35,3 +35,8 @@ app.listen(4500, (req, resp)=>{
 // some of the examples of SQL are mySQL, postgres, MSSql, Oracle
 // some of the example of NoSql are mongoDb, Cassandra
 // NoSQL is more flexible
+
+// MongoDb mainly have 3 components
+// 1. Database - group of different collections
+// 2. Collection - group of similar docuements
+// 3. Document - each object is a document
